@@ -41,3 +41,6 @@ temp
 *.js
 *.map
 !webpack.*
+
+# IDE
+.idea/
